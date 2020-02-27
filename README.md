@@ -1,3 +1,2 @@
-# rserver
-## Orginal setup was 8 CPU and 30GB of memory
-
+# optim_slotsize
+Minimization function to optimize slot size
